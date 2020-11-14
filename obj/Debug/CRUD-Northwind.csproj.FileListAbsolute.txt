@@ -1,0 +1,15 @@
+C:\Users\pence\source\repos\CRUD-Northwind\CRUD-Northwind\bin\Debug\CRUD-Northwind.exe.config
+C:\Users\pence\source\repos\CRUD-Northwind\CRUD-Northwind\bin\Debug\CRUD-Northwind.exe
+C:\Users\pence\source\repos\CRUD-Northwind\CRUD-Northwind\bin\Debug\CRUD-Northwind.pdb
+C:\Users\pence\source\repos\CRUD-Northwind\CRUD-Northwind\bin\Debug\EntityFramework.dll
+C:\Users\pence\source\repos\CRUD-Northwind\CRUD-Northwind\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pence\source\repos\CRUD-Northwind\CRUD-Northwind\bin\Debug\EntityFramework.xml
+C:\Users\pence\source\repos\CRUD-Northwind\CRUD-Northwind\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pence\source\repos\CRUD-Northwind\CRUD-Northwind\obj\Debug\CRUD-Northwind.csprojAssemblyReference.cache
+C:\Users\pence\source\repos\CRUD-Northwind\CRUD-Northwind\obj\Debug\CRUD_Northwind.Form1.resources
+C:\Users\pence\source\repos\CRUD-Northwind\CRUD-Northwind\obj\Debug\CRUD_Northwind.Properties.Resources.resources
+C:\Users\pence\source\repos\CRUD-Northwind\CRUD-Northwind\obj\Debug\CRUD-Northwind.csproj.GenerateResource.cache
+C:\Users\pence\source\repos\CRUD-Northwind\CRUD-Northwind\obj\Debug\CRUD-Northwind.csproj.CoreCompileInputs.cache
+C:\Users\pence\source\repos\CRUD-Northwind\CRUD-Northwind\obj\Debug\CRUD-Northwind.csproj.CopyComplete
+C:\Users\pence\source\repos\CRUD-Northwind\CRUD-Northwind\obj\Debug\CRUD-Northwind.exe
+C:\Users\pence\source\repos\CRUD-Northwind\CRUD-Northwind\obj\Debug\CRUD-Northwind.pdb
